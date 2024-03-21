@@ -1,0 +1,13 @@
+h1 {
+    background-color: wheat;
+}
+.texto {
+    background-color: navy;
+    color: violet;
+}
+
+#subtexto {
+    text-align: center;
+    font-size: xx-large;
+    border-bottom:color(srgb violet black gray);
+}
